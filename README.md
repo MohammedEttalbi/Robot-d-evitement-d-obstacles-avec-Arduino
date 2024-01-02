@@ -42,4 +42,8 @@ Vous pouvez visualiser le design du robot sur Tinkercad [ici](https://www.tinker
 ## Remarques
 - Ajustez la valeur de `DISTANCE_OBSTACLE` dans le code pour définir le seuil de distance de détection des obstacles.
 - Assurez-vous des connexions appropriées et de l'alimentation pour un fonctionnement optimal.
+  
+![Visualisation du Robot]
+
+![ROBOT2](https://github.com/MohammedEttalbi/Robot-d-evitement-d-obstacles-avec-Arduino/assets/127549207/ecd4cf9b-d6d5-4a88-afe1-a1a5b2b81156)
 
